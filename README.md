@@ -19,6 +19,10 @@ I have seen such automatic hand sanitizer dispensers almost at each and every pl
 5. Adaptor (any other power source) we have used a power bank.
 6. Male female wires 
 
+# Circuit Diagram:
+
+ 
+ 
 # Usage:
 Hygiene is very important to all of us these days. So this project made by us is a really helpful thing especially in the time of such pandemic. Such automatic hand sanitizer dispensers are used everywhere. These dispensers are really helpful and are contactless, there is no need to touch the sanitizer’s container, let the sensor detect motion and you are good to go.
 
