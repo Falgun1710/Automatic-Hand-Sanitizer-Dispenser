@@ -24,3 +24,5 @@ Requirements :
 Usage:
 Hygiene is very important to all of us these days. So this project made by us is a really helpful thing especially in the time of such pandemic. Such automatic hand sanitizer dispensers are used everywhere. These dispensers are really helpful and are contactless, there is no need to touch the sanitizer’s container, let the sensor detect motion and you are good to go.
 
+Credits:
+Tomesh Trevor.
